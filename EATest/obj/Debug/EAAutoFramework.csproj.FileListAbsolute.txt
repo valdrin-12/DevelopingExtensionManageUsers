@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\bin\Debug\EAAutoFramework.dll
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\bin\Debug\EAAutoFramework.pdb
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\obj\Debug\EAAutoFramework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\obj\Debug\EAAutoFramework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\obj\Debug\EAAutoFramework.dll
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\obj\Debug\EAAutoFramework.pdb
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\bin\Debug\WebDriver.Support.dll
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\obj\Debug\EAAutoFramework.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\selenium3\EATest\EATest\bin\Debug\Config\GlobalConfig.xml
